@@ -1,5 +1,5 @@
 # Eye In the Sky (Dissertation Project)
-Eye in the Sky is the project I undertook in my final year studing BSc Computer Science at Durham University. The focus of the project was to investigate the performance of various object detection and tracking algorithms on the UAV (drone) imagery domain. This repository contains the configuration files and logs from the undertaken expirements, download links to the trained weights for each of the models and my final submitted [dissertation paper](https://github.com/boyla950/eye-in-the-sky/blob/main/project_paper.pdf).
+Eye in the Sky is the project I undertook in my final year studying BSc Computer Science at Durham University. The focus of the project was to investigate the performance of various object detection and tracking algorithms on the UAV (drone) imagery domain. This repository contains the configuration files and logs from the undertaken expirements, download links to the trained weights for each of the models and my final submitted [dissertation paper](https://github.com/boyla950/eye-in-the-sky/blob/main/project_paper.pdf).
 
 ## The Goal
 The specific aims of the project could be broken down into 3 components:
